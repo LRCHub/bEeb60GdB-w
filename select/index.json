@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Recognize",
+  "base_artist": "IO",
+  "createdAt": "2025-12-09T14:42:56.297625Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Devil Wouldn't Recognize You",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/01_Devil_Wouldn't_Recognize_You_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Recognize",
+      "artist": "Ol’ Dirty Bastard",
+      "has_synced": false,
+      "path": "select/02_Recognize_Ol’_Dirty_Bastard.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Recognize Real (with Gunna)",
+      "artist": "Young Thug feat. Gunna",
+      "has_synced": true,
+      "path": "select/03_Recognize_Real_(with_Gunna)_Young_Thug_feat._Gunna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Recognize Real (feat. Gunna)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/04_Recognize_Real_(feat._Gunna)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Recognize",
+      "artist": "Breakestra",
+      "has_synced": false,
+      "path": "select/05_Recognize_Breakestra.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Recognize (feat. Majid Jordan)",
+      "artist": "DJ Snake feat. Majid Jordan",
+      "has_synced": true,
+      "path": "select/06_Recognize_(feat._Majid_Jordan)_DJ_Snake_feat._Majid_Jordan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Recognize (feat. Majid Jordan)",
+      "artist": "DJ Snake",
+      "has_synced": true,
+      "path": "select/07_Recognize_(feat._Majid_Jordan)_DJ_Snake.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Barely Recognize You",
+      "artist": "Elysian Fields",
+      "has_synced": true,
+      "path": "select/08_Barely_Recognize_You_Elysian_Fields.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Will I Recognize",
+      "artist": "Fra Lippo Lippi",
+      "has_synced": false,
+      "path": "select/09_Will_I_Recognize_Fra_Lippo_Lippi.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Recognize (feat. Drake)",
+      "artist": "PARTYNEXTDOOR feat. Drake",
+      "has_synced": true,
+      "path": "select/10_Recognize_(feat._Drake)_PARTYNEXTDOOR_feat._Drake.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "S.S. Recognize",
+      "artist": "Alien Ant Farm",
+      "has_synced": false,
+      "path": "select/11_S.S._Recognize_Alien_Ant_Farm.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Recognize",
+      "artist": "Warren G",
+      "has_synced": true,
+      "path": "select/12_Recognize_Warren_G.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Recognize",
+      "artist": "Tesla",
+      "has_synced": true,
+      "path": "select/13_Recognize_Tesla.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Recognize Real (with Gunna)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/14_Recognize_Real_(with_Gunna)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "We Be Burnin' (Recognize It)",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/15_We_Be_Burnin'_(Recognize_It)_Sean_Paul.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Recognize (feat. C.O.S.A.)",
+      "artist": "I O",
+      "has_synced": false,
+      "path": "select/pl_01_Recognize_(feat._C.O.S.A.)_I_O.txt"
+    }
+  ]
+}
